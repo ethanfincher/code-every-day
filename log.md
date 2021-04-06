@@ -26,5 +26,5 @@
 
 **Link(s) to work**
 
-1. [Find the Longest Word in a String]()
-2. [Title Case a Sentence]()
+1. [Find the Longest Word in a String](Holiday.js)
+

@@ -26,5 +26,4 @@
 
 **Link(s) to work**
 
-1. [Find the Longest Word in a String](Holiday.js)
-
+1. [Hoiday](Holiday.js)

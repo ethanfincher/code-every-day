@@ -18,7 +18,7 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com) -->
 
-### Day 1: June 27, Monday
+### Day 1: April 6, Tuesday
 
 **Today's Progress**: finished a code wars exercise and went through class
 
@@ -27,3 +27,15 @@
 **Link(s) to work**
 
 1. [Hoiday](Holiday.js)
+
+
+### Day 2: April 7, Wednesday
+
+**Today's Progress**: did some coding challenges for class this morning, and started/launched my forever friend app!
+
+**Thoughts** just getting everything connected on heroku and github and getting api keys and hiding them takes a lot of work! I did get heroku to sync with my main branch, so now whenever i push to main it will also push to heroku, which is cool!
+
+**Link(s) to work**
+
+1. [Hoiday](cc-bits-check)
+2. https://forever-friend.herokuapp.com/

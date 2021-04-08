@@ -38,4 +38,4 @@
 **Link(s) to work**
 
 1. [Hoiday](cc-bits-check)
-2. https://forever-friend.herokuapp.com/
+2. [cc bits checks](https://forever-friend.herokuapp.com/)

@@ -37,5 +37,16 @@
 
 **Link(s) to work**
 
-1. [Hoiday](cc-bits-check)
-2. [cc bits checks](https://forever-friend.herokuapp.com/)
+2. [cc bits checks](cc-bits-check)
+
+
+### Day 3: April 8, Thursday
+
+**Today's Progress**: did some python morning exercises today, and learned a little about cURL commands and oAUTH for my forever friend app!
+
+**Thoughts** oAuth was cool to learn about, i still have to figure out how to get it to run using ajax within my reach program, but i made the get request and got all the data i need for my app within my terminal, so tomorrow i'm going to add that to my actual file
+
+
+**Link(s) to work**
+
+2. [cc more python](cc_more_python)

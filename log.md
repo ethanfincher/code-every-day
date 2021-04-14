@@ -86,4 +86,15 @@
 
 **Link(s) to work**
 
-2. [nostal dja](https://git.generalassemb.ly/SEIR-201/nostal-dja)
+1. [nostal dja](https://git.generalassemb.ly/SEIR-201/nostal-dja)
+
+
+### Day 8: April 13, Tuesday
+
+**Today's Progress**: more django work today, couldn't get my homework to work, put a lot of time into looking up and debugging but to no avail. Hopefully i can get some help with it, or restart it and figure out where i went wrong
+
+**Thoughts** nothing very new, just kinda went backwords with django, but im sure itll click soon enough. i feel like i say that a lot 
+
+**Link(s) to work**
+
+2. [nostal dja (new)](https://git.generalassemb.ly/SEIR-201/nostal-dja)
